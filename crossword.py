@@ -1,4 +1,6 @@
-
+'''numbering the puzzle given the grid.
+The input is crossword grid given in the format of list of strings of hash (indicating black box) and space (indicating white box)
+The output is number with coordinates in the form of list of tuples '''
 
 crossword = [   '        #      ',\
                 ' # # # ### # # ',\
